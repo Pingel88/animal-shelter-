@@ -1,0 +1,20 @@
+.column{
+  border-width: 50px;
+  border: black;
+  width: 600px;
+  float: left;
+  display: block;
+  color: red;
+}
+
+.image-scale {
+  height: 300px;
+}
+
+.name {
+  color: green;
+}
+
+h1, h2 {
+  text-align: center;
+}
